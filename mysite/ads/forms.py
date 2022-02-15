@@ -10,6 +10,7 @@ class CreateForm(forms.ModelForm):
 
 
     picture = forms.FileField(required=False, label='File to Upload <= '+max_upload_limit_text)
+    #to use it in jQuery
     upload_field_name = 'picture'
 
 
