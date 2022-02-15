@@ -58,14 +58,14 @@ class AdUpdateView(LoginRequiredMixin, View):
         return render(request, self.template_name, ctx)
 
     def post(self, request, pk):
-        ad = get_object_or_404(Ad, id=pk, owner=self.requst.user)
+        ad = get_object_or_404(Ad, id=pk, owner=self.request.user)
         form = CreateForm(request.POST, request.FILES or None, instance=ad)
         if not form.is_valid():
             ctx = {'form': form}
             return render(request, self.template_name, ctx)
         form.save()
 
-        return redirect(self.reverse_lazy)
+        return redirect(self.success_url)
 
 
 class AdDeleteView(OwnerDeleteView):

@@ -10,7 +10,7 @@ class CreateForm(forms.ModelForm):
 
 
     picture = forms.FileField(required=False, label='File to Upload <= '+max_upload_limit_text)
-
+    upload_field_name = 'picture'
 
 
 
@@ -28,7 +28,7 @@ class CreateForm(forms.ModelForm):
 
     def save(self, commit=True):
         instance = super(CreateForm, self).save(commit=False)
-        f = instance.get('picture')
+        f = instance.picture
         if isinstance(f, InMemoryUploadedFile):
             bytearr = f.read()
             instance.content_type = f.content_type
