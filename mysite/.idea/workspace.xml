@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d51037c-ac96-4701-8fac-f91e19633a4f" name="Changes" comment="">
+    <list default="true" id="ae7ce66a-8c29-4147-8615-937a6ec97d7e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../mysite/ads/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/ads/admin.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/ads/apps.py" beforeDir="false" />
@@ -101,6 +101,7 @@
       <change beforePath="$PROJECT_DIR$/../mysite/site/dj4e.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/site/hello.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/site/subfolder/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,10 +111,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="258xoxKmhHlru4CLo1KPcOaBlCf" />
+  <component name="ProjectId" id="2594DiQwdL28Mw4LibJ6uFwvwtA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -152,12 +150,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3d51037c-ac96-4701-8fac-f91e19633a4f" name="Changes" comment="" />
-      <created>1644922695294</created>
+      <changelist id="ae7ce66a-8c29-4147-8615-937a6ec97d7e" name="Changes" comment="" />
+      <created>1644925852256</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1644922695294</updated>
-      <workItem from="1644922738924" duration="264000" />
+      <updated>1644925852256</updated>
+      <workItem from="1644925890368" duration="14000" />
     </task>
     <servers />
   </component>
