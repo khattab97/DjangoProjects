@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d51037c-ac96-4701-8fac-f91e19633a4f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/humanize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/migrations/0002_auto_20220211_1419.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/migrations/0003_auto_20220214_1800.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/owner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/templates/ads/ad_confirm_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/templates/ads/ad_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/templates/ads/ad_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/templates/ads/ad_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/templates/ads/comment_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/ads/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/templates/autos/auto_confirm_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/templates/autos/auto_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/templates/autos/auto_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/templates/autos/make_confirm_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/templates/autos/make_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/templates/autos/make_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/autos/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/templates/cats/breed_confirm_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/templates/cats/breed_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/templates/cats/breed_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/templates/cats/cat_confirm_delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/templates/cats/cat_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/templates/cats/cat_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/cats/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/hello/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/hello/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/hello/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/hello/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/hello/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/hello/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/hello/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/hello/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/context_processors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/static/favicon.notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/templates/base_bootstrap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/templates/base_menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/templates/home/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/templates/registration/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/templates/registration/login_social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/templatetags/app_tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/home/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/templates/polls/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/templates/polls/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/templates/polls/results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/templates/polls/vote.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/polls/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/site/css/blocks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/site/css/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/site/dj4e.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/site/hello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/site/subfolder/hello.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="258xoxKmhHlru4CLo1KPcOaBlCf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mysite1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d51037c-ac96-4701-8fac-f91e19633a4f" name="Changes" comment="" />
+      <created>1644922695294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644922695294</updated>
+      <workItem from="1644922738924" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
